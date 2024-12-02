@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_filled_24dp"
+            android:title="@string/menu_home" />
+
+        <item
+            android:id="@+id/nav_cliente"
+            android:icon="@drawable/ic_person_filled_24dp"
+            android:title="@string/menu_cliente"
+            android:font="@font/sora"/>
+
+        <item
+            android:id="@+id/nav_produtos"
+            android:icon="@drawable/ic_product_filled_24dp"
+            android:title="@string/menu_produtos"
+            android:font="@font/sora"/>
+
+        <item
+            android:id="@+id/nav_sair"
+            android:iconTint="@color/vermelho_primario"
+            android:icon="@drawable/ic_logout_outlined_24dp"
+            android:title="@string/menu_sair"
+            android:font="@font/sora"/>
+    </group>
+
+</menu>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="verde_primario">#155f2c</color>
+    <color name="verde_secundario">#219746</color>
+    <color name="verde_terciario">#86FDAC</color>
+    <color name="verde_card">#EBFFF1</color>
+
+    <color name="vermelho_primario">#B30101</color>
+    <color name="vermelho_secundario">#730101</color>
+</resources>

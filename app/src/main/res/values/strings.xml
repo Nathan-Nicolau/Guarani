@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Guarani cadastros</string>
+    <string name="label_guarani_sistemas">Guarani Sistemas</string>
+    <string name="seja_bem_vindo">Seja bem vindo ao \nGuarani cadastros</string>
+    <string name="label_info_inicio">Nesse aplicativo é possível:</string>
+    <string name="label_info_cadastro_clientes">* Pesquisar cadastros de clientes\n* Cadastrar novos clientes\n* Editar clientes</string>
+    <string name="label_info_cadastro_produto">Consultar produtos e seus históricos de preços</string>
+    <string name="entrar">Entrar</string>
+
+    <!-- Menu -->
+    <string name="menu_home">Início</string>
+    <string name="menu_cliente">Clientes</string>
+    <string name="menu_produtos">Produtos</string>
+    <string name="menu_sair">Sair</string>
+
+    <string name="aviso_logout">Deseja mesmo sair ?</string>
+    <string name="sair_cancelar">Cancelar</string>
+    <string name="sair_confirmar">Sim</string>
+    <string name="pesquisar">Pesquisar</string>
+
+    <string name="tab_layout_pesquisa">Pesquisar</string>
+    <string name="tab_layout_cadastrar">Cadastrar</string>
+    <string name="titulo_pesquisa_produtos">Pesquisa de produtos</string>
+    <string name="label_pesquisa_produto">Selecione o status desejado para pesquisar</string>
+    <string name="label_pesquisando_produtos">Pesquisando produtos</string>
+    <string name="label_informacoes_produto">Mais informações do produto</string>
+    <string name="label_selecione_produto_mais_informacoes">Selecione o produto para mais informações</string>
+    <string name="label_lista_produtos">Lista de produtoVOS cadastrados</string>
+    <string name="label_quantidade_registros">Registros</string>
+    <string name="label_clique_segure">Clique para mais informações</string>
+    <string name="label_cadastro_produto">Disponível em breve</string>
+
+    <string name="label_tipo_pessoa">Selecione o tipo de pessoa</string>
+    <string name="label_razao_social">Razão social</string>
+    <string name="label_nome_fantassia">Nome fantasia</string>
+    <string name="label_cpf">CPF</string>
+    <string name="label_cnpj">CNPJ</string>
+    <string name="label_email_principal">Email principal</string>
+    <string name="label_email_secundario">Email secundário</string>
+    <string name="label_pesquisando_clientes">Pesquisando clientes</string>
+    <string name="editar_cadastro_cliente">Editar</string>
+    <string name="excluir_cadastro_cliente">Excluir</string>
+    <string name="editar_cliente">Editar cliente</string>
+
+    <string name="titulo_pesquisa_clientes">Pesquisa de clientes</string>
+    <string name="titulo_cadastro_clientes">Cadastro de clientes</string>
+    <string name="hint_razao_social">Razão social</string>
+    <string name="hint_cpf">CPF</string>
+    <string name="hint_cnpj">CNPJ</string>
+    <string name="hint_nome_fantasia">Nome fantasia</string>
+    <string name="endereco_principal">Endereço Principal</string>
+    <string name="endereco_entrega">Endereço de Entrega</string>
+    <string name="endereco_cobranca">Endereço de Cobrança</string>
+    <string name="bairro_principal">Bairro de endereço principal</string>
+    <string name="bairro_entrega">Bairro de endereço de entrega</string>
+    <string name="bairro_cobranca">Bairro de endereço de cobrança</string>
+    <string name="numero_principal">Número de endereço principal</string>
+    <string name="numero_entrega">Número de endereço de entrega</string>
+    <string name="numero_cobranca">Número de endereço de cobrança</string>
+
+    <string name="hint_cadastrar_razao_social">Informe a Razão Social</string>
+    <string name="hint_cadastrar_cnpj">Informe o CNPJ</string>
+    <string name="hint_cadastrar_cpf">Informe o CPF</string>
+    <string name="hint_cadastrar_nome_fantasia">Informe o Nome Fantasia</string>
+    <string name="hint_cadastrar_email_primario">Informe o email principal</string>
+    <string name="hint_cadastrar_email_secundario">Informe o email secundário</string>
+    <string name="hint_cadastrar_endereco_principal">Informe o endereço principal</string>
+    <string name="hint_cadastrar_endereco_secundario">Informe o endereço de entrega</string>
+    <string name="hint_cadastrar_endereco_cobranca">Informe o endereço de cobrança</string>
+    <string name="hint_cadastrar_nome_bairo_principal">Informe o bairro do endereço principal</string>
+    <string name="hint_cadastrar_nome_bairro_cobranca">Informe o bairro do endereço de cobrança</string>
+    <string name="hint_cadastrar_nome_bairro_entrega">Informe o bairro do endereço de entrega</string>
+    <string name="hint_cadastrar_numero_principal">Informe o número do endereço principal</string>
+    <string name="hint_cadastrar_numero_entrega">Informe o número do endereço de entrega</string>
+    <string name="hint_cadastrar_numero_cobranca">Informe o número do endereço de cobrança</string>
+    <string name="salvar_cadastro_cliente">Salvar</string>
+
+    <string name="label_codigo_produto">Código</string>
+    <string name="label_descricao_produto">Descrição</string>
+    <string name="label_estoque_produto">Estoque</string>
+    <string name="titulo_precos_produto">Preços do Produto</string>
+
+</resources>
